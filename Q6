@@ -1,0 +1,8 @@
+Q6.[Crypto] Classical Cipher from cpawCTF
+
+How: Using https://gchq.github.io/CyberChef/#recipe=ROT13(true,true,false,-3)&input=ZnNkentGZGh2ZHVfZmxza2h1X2x2X2ZvZHZ2bGZkb19mbHNraHV9 to get an anser with amount -3 with ROT13.
+Or make a file to convert characters according to ASCii (For those who wants to know the code https://github.com/tsg-ut/sig-ctf-2017/blob/master/docs/02/caesar.py )
+
+Q: fsdz{Fdhvdu_flskhu_lv_fodvvlfdo_flskhu}
+
+A: 
