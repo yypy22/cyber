@@ -1,5 +1,5 @@
-Q7 [Reversing] Can you execute ?
-exec_me file is binally and cannot open even though i changed permission with chmod 777 exec_me
+Q7 [Reversing] Can you execute?
+exec_me file is binary and cannot open even though I changed permission with chmod 777 exec_me
 -> cannot execute binary file
 
-I will try it with linux with diff laptop later
+macOS is not the best to do it and linux is much better when it comes to cyber things
